@@ -1,0 +1,14 @@
+Mar 27, 2016 10:52:10 PM com.deepsea.Game loadLogger
+INFO: entry point
+Mar 27, 2016 10:52:10 PM com.deepsea.Game main
+INFO: generating random seed: 23223
+Mar 27, 2016 10:52:10 PM com.deepsea.Game main
+INFO: starting game
+Mar 27, 2016 10:52:10 PM com.deepsea.Camera <init>
+INFO: player initialized: Vector3f[0.0, 0.0, 0.0]
+Mar 27, 2016 10:52:11 PM com.deepsea.Game initOpenGL
+INFO: Display: deepsea engine 0.0.4
+Mar 27, 2016 10:52:11 PM com.deepsea.Game initDisplay
+INFO: display initialized
+Mar 27, 2016 10:52:14 PM com.deepsea.Game loadFonts
+INFO: loaded font: Dialog.bold
